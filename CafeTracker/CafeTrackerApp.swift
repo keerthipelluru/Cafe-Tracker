@@ -16,3 +16,11 @@ struct CafeTrackerApp: App {
         }
     }
 }
+
+#Preview("Login") {
+    LoginView()
+}
+
+#Preview("Registration") {
+    RegistrationView()
+}
