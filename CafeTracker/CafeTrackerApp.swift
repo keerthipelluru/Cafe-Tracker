@@ -5,6 +5,7 @@
 //  Created by Keerthi Pelluru on 11/9/25.
 //
 
+// main entry point of the app
 import SwiftUI
 
 @main
